@@ -1,7 +1,7 @@
 # Heart Failure Prediction Project
 
 ## Overview
-The Heart Failure Prediction Project is an analytical and predictive modeling endeavor, aimed at determining the likelihood of heart failure from clinical data. The centerpiece of this project is a Tableau dashboard that showcases an in-depth visualization of patient data to aid in the discovery of actionable insights regarding key health indicators.
+The Heart Failure Prediction Project is an analytical and predictive modeling endeavor, aimed at determining the likelihood of heart failure from clinical data. The centerpiece of this project is a Tableau dashboard that showcases an in-depth visualization of a subset of the original patient data, specifically selected to aid in the discovery of actionable insights regarding key health indicators.
 
 ## Objectives
 Our objectives are multifaceted, aiming to:
